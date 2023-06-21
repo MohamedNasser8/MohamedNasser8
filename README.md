@@ -1,4 +1,4 @@
-# Hi there <img height ="35px" src="images/wave.gif" alt="logo">, I'm <a href ="https://www.linkedin.com/in/eslam-ashraf-b70880216/">Eslam!</a>
+# Hi there <img height ="35px" src="images/wave.gif" alt="logo">, I'm <a href ="https://www.linkedin.com/in/mohamed-nasser-40a404203">Mohamed Nasser!</a>
 
 </div>
 
@@ -6,12 +6,12 @@
   <img align="" width=550px height=400px src="images/logo.gif" alt="logo">
   <span align="">
    
-   ### ”Pray for the best, prepare for the worst.⛰“
+   ### ”When in doubt, use brute force.⛰“
  
  </span>
 
 <div>
-<img src="https://komarev.com/ghpvc/?username=EslamAsHhraf&label=Profile%20views&color=0e75b6&style=flat" alt="EslamAsHhraf" />
+<img src="https://komarev.com/ghpvc/?username=EslamAsHhraf&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedNasser" />
 
 </div>
 </div>
@@ -22,15 +22,14 @@
 
 ## <img align="center"  height =50px src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif"> About Me <a id = "about"></a>
 
-- #### 🎓 Computer Engineering Student at <a href="http://eng.cu.edu.eg/ar/">Faculty of Engineering Cairo University</a>
+- #### 🎓 Biomedical Engineering Student at <a href="http://eng.cu.edu.eg/ar/">Faculty of Engineering Cairo University</a>
 
 - #### 🤖 Currently I am studding Machine Learning
 
 - #### 👷🏼‍♂️ Software Engineer Intern <a href="https://www.bld.ai/">bld.ai</a>
-- #### 👷🏼‍♂️ Software Engineer Trainer <a href="https://www.hdb-egy.com/">HD Bank</a>
-- #### 📝 Checkout my <a href="https://drive.google.com/file/d/1Z9eIIxaEivHEZ3KX6Clf8PigdBK7E4lC/view?usp=sharing">Resume</a>
+- #### 📝 Checkout my <a href="https://drive.google.com/drive/folders/135o8oFYte2oZu7lM7wBHjoYdiLtj2z0_?usp=sharing">Resume</a>
 
-- #### 📫 How to reach me <a href="mailto:eslamashraf.12342@gmail.com">Mail</a>
+- #### 📫 How to reach me <a href="mailto:nassermohamed3222@gmail.com">Mail</a>
 
 - #### 🖐 Available to help
 
@@ -123,32 +122,22 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/eslam-ashraf-b70880216/" target="blank"><img align="center"
       src="images/linkedin.png"
-      alt="elsam_pithewan" height="30" width="30" /></a>
-  <a href="https://www.kaggle.com/eslamashhraf" target="blank"><img align="center"
-      src="images/kaggle.webp"
-      alt="elsam_pithewan" height="30" width="30" /></a>
- <a href="mailto:eslamashraf.12342@gmail.com" target="blank"><img align="center"
+      alt="Mohamed" height="30" width="30" /></a>
+ 
+ <a href="mailto:nassermohamed3222@gmail.com" target="blank"><img align="center"
       src="images/Gmail.png"
-      alt="elsam pithewan" height="30px" width="40px" /></a> 
- <a href="https://github.com/EslamAsHhraf" target="blank"><img align="center"
+      alt="Mohamed pithewan" height="30px" width="40px" /></a> 
+ <a href="https://github.com/MohamedNasser8" target="blank"><img align="center"
       src="images/git.png"
-      alt="elsam pithewan" height="30px" width="30px" /></a>
-      <a href="https://codeforces.com/profile/EslamAshHraf" target="blank"><img align="center"
+      alt="Mohamed pithewan" height="30px" width="30px" /></a>
+      <a href="https://codeforces.com/profile/nassermohamed3222" target="blank"><img align="center"
       src="images/codeforces3.png"
-      alt="elsam pithewan" height="30px" width="30px" /></a> 
-  <a href="https://www.hackerrank.com/eslamashraf_1231" target="blank"><img align="center"
-      src="images/hackerrank.svg"
-      alt="elsam pithewan" height="30" width="40" /></a> 
-      <a href="https://www.facebook.com/profile.php?id=100008920246590" target="blank"><img align="center"
-      src="images/facebook.svg"
-      alt="elsam pithen wala" height="30" width="40" /></a> 
-  <a href="https://www.instagram.com/eslamashraf._/" target="blank"><img align="center"
-      src="images/instagram.svg"
-      alt="elsam_pithewan" height="30" width="40" /></a> 
+      alt="Mohamed pithewan" height="30px" width="30px" /></a> 
+     
 </div>
 <br>
 <div align="center">
-<img  height="175" src="https://github-readme-stats.vercel.app/api?username=EslamAsHhraf&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" >
+<img  height="175" src="https://github-readme-stats.vercel.app/api?username=MohamedNasser8&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" >
 <br>
 </div>
 
