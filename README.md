@@ -101,20 +101,7 @@
 </li>
 <li>
 
-### Operating Systems:
 
-<div align ="center">
-<code title="Linux"><img src="images/images.jpg" width="40" height="40" /></code>
-<code title="Windows"><img src="images/windows.png" height="40" /></code>
-<code title="VMware"><img src="images/vmware.png" height="40" /></code>
-
-</div>
-</ul>
-<br>
-</li>
-<div align="center">
-<img  width=90% src="images/neon.gif">
-</div>
 
 ## 📫 Connect with me: <a id = "Connect"></a>
 
