@@ -110,14 +110,13 @@
   <a href="https://www.linkedin.com/in/mohamed-nasser-40a404203" target="blank"><img align="center"
       src="images/linkedin.png"
       alt="Mohamed" height="30" width="30" /></a>
- 
  <a href="mailto:nassermohamed3222@gmail.com" target="blank"><img align="center"
       src="images/Gmail.png"
       alt="Mohamed pithewan" height="30px" width="40px" /></a> 
  <a href="https://github.com/MohamedNasser8" target="blank"><img align="center"
       src="images/git.png"
       alt="Mohamed pithewan" height="30px" width="30px" /></a>
-      <a href="https://codeforces.com/profile/nassermohamed3222" target="blank"><img align="center"
+ <a href="https://codeforces.com/profile/nassermohamed3222" target="blank"><img align="center"
       src="images/codeforces3.png"
       alt="Mohamed pithewan" height="30px" width="30px" /></a> 
      
