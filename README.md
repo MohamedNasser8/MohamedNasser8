@@ -47,9 +47,7 @@
 <code title="Java"><img height="40" src="images/Java.svg.png"></code>
 <code title="C"><img height="40" src="images/C_Logo.png"></code>
 <code title="C++"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-
 <code title="arduino"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
-
 <code title="Assembly"><img height="40" src="images/ASM-Symbol.png"></code>
 </div>
 </li>
@@ -65,7 +63,6 @@
 <code title="React.js"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"></code>
 <code title="React + Vite"><img height="40" src="images/vite.svg"></code>
 <code title="Bootstrap"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" /></code>
-
 <code title="firebase"><img src="images/firebase.png" alt="firebase" width="40" height="40" /></code>
 
 </div>
