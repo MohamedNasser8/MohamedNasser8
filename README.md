@@ -78,6 +78,7 @@
 <code title="PHP"><img width="50" src="images/php2.png"></code>
 <code title="SQl"><img width="40" src="images/sql.png"></code>
 <code title="MySQL"><img width="40" src="images/mysq.png"></code>
+<code title="Postgresql"><img width="40" src="images/Postgresql_elephant.svg.png"></code>
 </div>
 <br>
 </li>
