@@ -26,9 +26,9 @@
 
 - #### 🤖 Currently I am studding Deep Learning
 
-- #### 👷🏼‍♂️ Software Engineer Intern <a href="https://www.SupportFinity.com/">SupportFinity</a>
+- #### 👷🏼‍♂️ Software Engineer Intern <a href="http://www.SupportFinity.com/">SupportFinity</a>
 
-- #### 👷🏼‍♂️ Software Engineer Intern <a href="https://www.bld.ai/">bld.ai</a>
+- #### 👷🏼‍♂️ Software Engineer Intern <a href="http://www.bld.ai/">bld.ai</a>
 - #### 📝 Checkout my <a href="https://drive.google.com/drive/folders/135o8oFYte2oZu7lM7wBHjoYdiLtj2z0_?usp=sharing">Resume</a>
 
 - #### 📫 How to reach me <a href="mailto:nassermohamed3222@gmail.com">Mail</a>
