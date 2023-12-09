@@ -24,7 +24,9 @@
 
 - #### 🎓 Biomedical Engineering Student at <a href="http://eng.cu.edu.eg/ar/">Faculty of Engineering Cairo University</a>
 
-- #### 🤖 Currently I am studding Machine Learning
+- #### 🤖 Currently I am studding Deep Learning
+
+- #### 👷🏼‍♂️ Software Engineer Intern <a href="https://www.SupportFinity.com/">SupportFinity</a>
 
 - #### 👷🏼‍♂️ Software Engineer Intern <a href="https://www.bld.ai/">bld.ai</a>
 - #### 📝 Checkout my <a href="https://drive.google.com/drive/folders/135o8oFYte2oZu7lM7wBHjoYdiLtj2z0_?usp=sharing">Resume</a>
