@@ -24,7 +24,7 @@
 
 - #### 🎓 Biomedical Engineering Student at <a href="http://eng.cu.edu.eg/ar/">Faculty of Engineering Cairo University</a>
 
-- #### 🤖 Currently I am studding Deep Learning
+- #### 🤖 Currently I am studying Deep Learning
 
 - #### 👷🏼‍♂️ Software Engineer Intern <a href="http://www.SupportFinity.com/">SupportFinity</a>
 
